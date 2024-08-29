@@ -1,0 +1,690 @@
+[
+    {
+        "input": "Quel est le thème de la formation mentionnée dans le texte ?",
+        "output": "Le thème de la formation est 'L'art de vendre son projet'."
+    },
+    {
+        "input": "Où se déroule la formation ?",
+        "output": "La formation se déroule au siège de la Startup Académie à Yaoundé et à Douala, avec plus de 60 % des participants suivant en ligne."
+    },
+    {
+        "input": "Quel est l'objectif de la formation mentionnée ?",
+        "output": "L'objectif de la formation est d'apprendre aux participants à vendre leur projet."
+    },
+    {
+        "input": "Quels étaient les deux premiers modules de la formation ?",
+        "output": "Le module 1 était 'Introduction à la vente de projet', et le module 2 était 'Connaître son projet et son identité'."
+    },
+    {
+        "input": "Quels types d'exercices ont été donnés aux participants ?",
+        "output": "Les participants ont reçu des exercices pratiques tels que rédiger un paragraphe expliquant leur compréhension des fondamentaux de la vente de projet et prendre des photos pendant la formation pour les publier sur leurs réseaux sociaux."
+    },
+    {
+        "input": "Combien de groupes ont été formés pour la formation et quel est leur rôle ?",
+        "output": "10 groupes ont été formés, chacun avec un chef de groupe, pour suivre individuellement chaque participant et s'assurer que les exercices sont réalisés."
+    },
+    {
+        "input": "Quelle était la durée pour compléter les exercices du module 2 ?",
+        "output": "Les participants avaient 6 jours pour compléter les exercices du module 2."
+    },
+    {
+        "input": "Quelle était la conséquence pour les participants qui n'ont pas réalisé les exercices en 6 jours ?",
+        "output": "Les participants qui n'ont pas réalisé les exercices en 6 jours n'ont pas pu continuer la formation en présence physique."
+    },
+    {
+        "input": "Quels produits et services les participants devaient-ils essayer de vendre ?",
+        "output": "Les participants devaient essayer de vendre l'un des 12 livres du docteur Claudel Nbissier, le coffret VIP, l'adhésion à la Startup Academy, ou la prochaine formation sur le thème 'L'art de développer une marque'."
+    },
+    {
+        "input": "Quelle commission était offerte pour les ventes réalisées par les participants ?",
+        "output": "Les participants recevaient une commission de 50 % sur les ventes réalisées."
+    },
+    {
+        "input": "Quelle récompense supplémentaire était offerte aux meilleurs vendeurs ?",
+        "output": "Les 10 meilleurs vendeurs qui réalisaient un chiffre d'affaires de plus de 100000 francs en 6 jours recevaient une publication de leur projet sur la page Facebook du docteur Claudel Nbissier pendant 7 jours."
+    },
+    {
+        "input": "Quelles étaient les conditions pour que le meilleur groupe de vente remporte des récompenses ?",
+        "output": "Le groupe de vente réalisant le chiffre d'affaires le plus élevé remportait deux coffrets VIP, trois adhésions gratuites à la Startup Academy, un événement organisé par la Startup Academy pour présenter leurs projets, et une communication sur la page Facebook du docteur Claudel Nbissier pendant 7 jours."
+    },
+    {
+        "input": "Quelle était l'attitude des participants recalés lors de la formation en présence physique ?",
+        "output": "Les participants recalés ont exprimé leur mécontentement en faisant du bruit et en critiquant la demande de vendre les produits de la Startup Academy."
+    },
+    {
+        "input": "Comment le formateur a-t-il réagi au mécontentement des participants ?",
+        "output": "Le formateur a décidé d'annuler la formation en présence physique pour les participants non satisfaits et leur a proposé de continuer la formation en ligne ou d'obtenir un remboursement."
+    },
+    {
+        "input": "Pourquoi le formateur a-t-il demandé aux participants de vendre des produits durant la formation ?",
+        "output": "Le formateur voulait tester la détermination et la capacité des participants à mettre en pratique les concepts vus pendant la formation."
+    },
+    {
+        "input": "Quel message le formateur voulait-il transmettre à travers cette expérience ?",
+        "output": "Le formateur voulait montrer que la réussite d'un projet demande de la détermination, de l'engagement et la capacité à apporter de la valeur aux autres."
+    },
+    {
+        "input": "Quelle était la principale raison pour laquelle certains participants n'ont pas réussi les exercices ?",
+        "output": "Certains participants n'ont pas réussi les exercices en raison d'un manque de volonté ou d'efforts pour appliquer les concepts enseignés."
+    },
+    {
+        "input": "Quelle était la réaction du formateur face à ceux qui n'ont pas complété les exercices ?",
+        "output": "Le formateur a exclu les participants non engagés de la formation en présence physique et a proposé de continuer la formation en ligne."
+    },
+    {
+        "input": "Quels conseils le formateur donne-t-il aux entrepreneurs concernant la valeur à apporter aux autres ?",
+        "output": "Le formateur conseille aux entrepreneurs de toujours chercher à apporter de la valeur aux autres, car c'est essentiel pour le succès d'un projet."
+    },
+    {
+        "input": "Comment le formateur prévoit-il de gérer la formation à Douala en cas de résultats similaires à ceux de Yaoundé ?",
+        "output": "Le formateur prévoit de suspendre également la formation en présence physique à Douala si les résultats sont similaires à ceux de Yaoundé."
+    },
+    {
+        "input": "Quels sont les moyens pour les participants d'obtenir de l'aide ou des informations supplémentaires sur la formation ?",
+        "output": "Les participants peuvent contacter le superviseur de la formation, monsieur Dylan Noufolet, ou un coordonnateur de la Startup Academy pour obtenir de l'aide ou des informations supplémentaires."
+    },
+    {
+        "input": "Quelles sont les deux premières vidéos mises à disposition des participants en ligne ?",
+        "output": "Les deux premières vidéos mises à disposition des participants en ligne couvrent les modules 1 et 2 de la formation."
+    },
+    {
+        "input": "Comment les participants en ligne peuvent-ils poser des questions concernant la formation ?",
+        "output": "Les participants en ligne peuvent poser des questions en commentaire des vidéos, et le formateur répondra à leurs questions."
+    },
+    {
+        "input": "Quel était l'objectif du premier exercice du module 1 ?",
+        "output": "L'objectif du premier exercice du module 1 était de comprendre les fondamentaux de la vente de projet en rédigeant un court paragraphe expliquant cette compréhension."
+    },
+    {
+        "input": "Quel était l'objectif du deuxième exercice du module 1 ?",
+        "output": "L'objectif du deuxième exercice du module 1 était de mesurer la notoriété en demandant aux participants de publier une photo prise durant la formation sur leurs réseaux sociaux."
+    },
+    {
+        "input": "Quel était le délai imparti pour les exercices du module 1 ?",
+        "output": "Le délai imparti pour les exercices du module 1 était de 24 heures."
+    },
+    {
+        "input": "Comment les exercices des participants étaient-ils collectés ?",
+        "output": "Les exercices des participants étaient collectés par les chefs de groupe, qui les transmettaient ensuite au superviseur de la formation, Monsieur Dylan Nfolé."
+    },
+    {
+        "input": "Quel était l'objectif de l'exercice de vente du module 2 ?",
+        "output": "L'objectif de l'exercice de vente du module 2 était de choisir un produit ou service à vendre en utilisant une stratégie de vente au choix des participants, afin de tester leur créativité."
+    },
+    {
+        "input": "Quels étaient les critères pour qu'un participant soit considéré comme ayant réussi l'exercice de vente ?",
+        "output": "Les participants devaient essayer de vendre un produit ou service en 6 jours et produire un rapport détaillant leur démarche, leurs réussites ou leurs difficultés."
+    },
+    {
+        "input": "Comment le formateur a-t-il récompensé la seule participante ayant réussi l'exercice de vente ?",
+        "output": "Le formateur a félicité la participante, lui a donné son numéro de téléphone et a organisé une rencontre privée pour discuter de son projet."
+    },
+    {
+        "input": "Quelle est l'importance de la foi et de la conviction dans le cadre de la formation ?",
+        "output": "La foi et la conviction sont présentées comme essentielles dans la réussite de la vente de projet, car elles renforcent la détermination des participants."
+    },
+    {
+        "input": "Quel rôle joue la valeur ajoutée dans la réussite d'un projet selon le formateur ?",
+        "output": "Le formateur insiste sur le fait qu'apporter de la valeur aux autres est crucial pour réussir un projet, et que l'égoïsme peut mener à l'échec."
+    },
+    {
+        "input": "Quelle était la réaction du formateur aux critiques des participants concernant la vente des produits ?",
+        "output": "Le formateur a réagi en expliquant que l'exercice de vente visait à tester leur capacité à apporter de la valeur et que ceux qui ne souhaitaient pas le faire pouvaient se retirer de la formation."
+    },
+    {
+        "input": "Comment les participants pouvaient-ils obtenir un remboursement s'ils n'étaient pas satisfaits de la formation ?",
+        "output": "Les participants mécontents pouvaient contacter la coordonnatrice, madame Sier Levina, pour demander un remboursement et se retirer de la formation."
+    },
+    {
+        "input": "Comment le formateur a-t-il prévu de continuer la formation après les résultats des exercices de Yaoundé ?",
+        "output": "Le formateur a décidé de continuer la formation en ligne pour tous les participants et de suspendre la formation en présence physique à Yaoundé."
+    },
+    {
+        "input": "Quel était le prix de la formation mentionnée dans le texte ?",
+        "output": "Le prix de la formation était de 10 000 francs."
+    },
+    {
+        "input": "Quelle était la motivation principale du formateur pour dispenser cette formation ?",
+        "output": "La motivation principale du formateur était de partager ses connaissances et son expérience pour aider les participants à ne pas tomber dans les mêmes pièges qu'il a rencontrés."
+    },
+    {
+        "input": "Qu'est-ce que le formateur a appris de son père concernant la communication ?",
+        "output": "Le formateur a appris de son père qu'il faut châtier pour faire passer une information, mais qu'il est encore plus important de féliciter et d'encourager lorsque les gens font bien."
+    },
+    {
+        "input": "Quelle a été la réaction du formateur après avoir constaté les résultats de vente des participants ?",
+        "output": "Le formateur a été impressionné par les résultats, particulièrement par le fait que les participants ont réussi à générer un chiffre d'affaires de 630 000 francs en seulement trois à quatre jours."
+    },
+    {
+        "input": "Pourquoi le formateur a-t-il décidé de produire une nouvelle vidéo après la précédente ?",
+        "output": "Le formateur a décidé de produire une nouvelle vidéo pour reconnaître les efforts des participants qui se sont excusés et ont décidé de se donner à fond après sa vidéo précédente."
+    },
+    {
+        "input": "Combien de commentaires le formateur a-t-il reçu et répondu après la publication de la vidéo précédente ?",
+        "output": "Le formateur a reçu et répondu à de nombreux commentaires après la publication de la vidéo précédente."
+    },
+    {
+        "input": "Quels ont été les changements observés après la diffusion de la vidéo où le formateur a partagé son expérience avec les participants de Yaoundé ?",
+        "output": "De nombreux participants se sont excusés et ont décidé de se lancer pleinement dans les exercices de vente proposés par le formateur."
+    },
+    {
+        "input": "Combien de temps les participants ont-ils eu pour réaliser le chiffre d'affaires de 630 000 francs ?",
+        "output": "Les participants ont réalisé le chiffre d'affaires de 630 000 francs en seulement trois à quatre jours."
+    },
+    {
+        "input": "Quels étaient les produits qui ont généré le plus de chiffre d'affaires ?",
+        "output": "Les produits qui ont généré le plus de chiffre d'affaires sont le coffret VIP (320 000 francs) et le livre sur la levée de fonds (80 000 francs)."
+    },
+    {
+        "input": "Comment le formateur classe-t-il les vendeurs par ordre de mérite ?",
+        "output": "Le formateur classe les vendeurs par ordre décroissant du chiffre d'affaires réalisé, du plus élevé au moins élevé."
+    },
+    {
+        "input": "Qui sont les deux vendeurs ayant réalisé le plus grand chiffre d'affaires ?",
+        "output": "Les deux vendeurs ayant réalisé le plus grand chiffre d'affaires sont Aimé Loaosou et Stephan Alim Gaga, chacun ayant généré 140 000 francs."
+    },
+    {
+        "input": "Combien de participants ont réalisé au moins une vente depuis la dernière vidéo du formateur ?",
+        "output": "23 participants ont réalisé au moins une vente depuis la dernière vidéo du formateur."
+    },
+    {
+        "input": "Quel groupe a réalisé le plus grand chiffre d'affaires ?",
+        "output": "Le groupe 9 à Douala a réalisé le plus grand chiffre d'affaires avec 180 000 francs."
+    },
+    {
+        "input": "Quelles sont les commissions que les participants reçoivent pour chaque vente réalisée ?",
+        "output": "Les participants reçoivent une commission de 50 % pour chaque vente réalisée."
+    },
+    {
+        "input": "Quels sont les avantages supplémentaires que peuvent recevoir les participants en plus des commissions ?",
+        "output": "En plus des commissions, les participants peuvent recevoir une communication sur la page du formateur et d'autres avantages selon le palier qu'ils atteignent."
+    },
+    {
+        "input": "Quel est le message du formateur pour ceux qui n'ont pas réussi à vendre ?",
+        "output": "Le formateur encourage ceux qui n'ont pas réussi à vendre à essayer et à faire un rapport sur les difficultés rencontrées pour recevoir une formation et un soutien supplémentaires."
+    },
+    {
+        "input": "Quelle stratégie le formateur propose-t-il pour maximiser les ventes en groupe ?",
+        "output": "Le formateur propose une stratégie de tontine de vente où chaque semaine, les membres se concentrent sur la vente des produits d'une seule personne pour maximiser les ventes et partager les commissions."
+    },
+    {
+        "input": "Quel a été l'impact de la vidéo précédente sur les participants à la formation ?",
+        "output": "La vidéo précédente a incité les participants à se lancer pleinement dans les exercices de vente, conduisant à un chiffre d'affaires significatif en quelques jours."
+    },
+    {
+        "input": "Quel était l'objectif du formateur en demandant aux participants de réaliser des exercices de vente ?",
+        "output": "L'objectif du formateur était de tester la détermination des participants et de les aider à mettre en pratique les compétences apprises pendant la formation."
+    },
+    {
+        "input": "Comment le formateur prévoit-il de soutenir les participants qui ont réussi à vendre ?",
+        "output": "Le formateur prévoit de contacter les participants qui ont réussi à vendre pour les aider à développer davantage leur projet et à augmenter leur chiffre d'affaires."
+    },
+    {
+        "input": "Quelles sont les récompenses spécifiques pour les meilleurs groupes de vente ?",
+        "output": "Les meilleurs groupes de vente peuvent recevoir des adhésions gratuites à la Startup Academy, des coffrets VIP gratuits, et d'autres avantages."
+    },
+    {
+        "input": "Pourquoi le formateur a-t-il décidé de contacter personnellement les participants qui ont réussi à vendre ?",
+        "output": "Le formateur veut s'assurer que les participants les plus performants reçoivent un soutien supplémentaire pour continuer à développer leur projet."
+    },
+    {
+        "input": "Quel est le but ultime de la formation selon le formateur ?",
+        "output": "Le but ultime de la formation est d'aider les participants à comprendre qu'il faut donner pour recevoir et à développer une mentalité de collaboration et de partage pour réussir dans leurs projets."
+    },
+    {
+        "input": "Quelle est la perspective du formateur sur le potentiel de collaboration entre les participants ?",
+        "output": "Le formateur pense que si les participants travaillent ensemble, ils peuvent générer des chiffres d'affaires significatifs et créer des opportunités de croissance pour tous."
+    },
+    {
+        "input": "Comment le formateur évalue-t-il les résultats obtenus après son 'coup de gueule' ?",
+        "output": "Le formateur estime que son 'coup de gueule' a été nécessaire et efficace, car il a permis aux participants de générer un chiffre d'affaires de 630 000 francs en seulement quelques jours."
+    },
+    {
+        "input": "Quelle est la vision du formateur pour les participants qui réussissent à vendre ?",
+        "output": "Le formateur envisage de s'associer avec les participants les plus performants pour les aider à promouvoir et à vendre leurs projets avec plus de succès."
+    },
+    {
+        "input": "Qu'est-ce que le formateur considère comme une des clés du succès pour les participants ?",
+        "output": "Le formateur considère que l'entraide et la collaboration sont essentielles pour réussir, et que les participants doivent apprendre à travailler ensemble pour maximiser leurs résultats."
+    },
+    {
+        "input": "Quelle leçon de vie le formateur souhaite-t-il transmettre à travers cet exercice de vente ?",
+        "output": "Le formateur souhaite transmettre que le succès dans les affaires passe par la volonté de donner avant de recevoir et par l'application pratique des enseignements."
+    },
+    {
+        "input": "Comment le formateur encourage-t-il la participation active des membres ?",
+        "output": "Le formateur encourage la participation active en offrant des récompenses pour les ventes et en soulignant l'importance de la mise en pratique des compétences acquises."
+    },
+    {
+        "input": "Quelles sont les prochaines étapes prévues pour les modules de formation ?",
+        "output": "Les prochaines étapes incluent la préparation des modules 3 et 4, qui seront abordés dans la formation de la semaine prochaine."
+    },
+    {
+        "input": "Quelle est l'importance de la collaboration dans la stratégie de vente proposée par le formateur ?",
+        "output": "La collaboration est centrale dans la stratégie de vente, car elle permet à chaque membre de bénéficier du soutien des autres pour maximiser les ventes et les résultats."
+    },
+    {
+        "input": "Quel est le potentiel de chiffre d'affaires si tous les participants suivent la stratégie de vente proposée ?",
+        "output": "Le formateur estime qu'en suivant la stratégie de vente, les participants pourraient générer des millions de chiffres d'affaires par semaine, si chacun se concentre sur les ventes."
+    },
+    {
+        "input": "Quel est le message final du formateur pour les participants ?",
+        "output": "Le formateur rappelle aux participants qu'il est essentiel de donner pour recevoir, de collaborer, et de se concentrer sur l'atteinte d'objectifs communs pour réussir."
+    },
+    {
+        "input": "Quels sont les deux sujets principaux abordés dans le module 5 ?",
+        "output": "Les deux sujets principaux abordés dans le module 5 sont le doute et les résistances dans le processus de vente de projet."
+    },
+    {
+        "input": "Pourquoi est-il normal d'avoir des doutes lors de la gestion d'un projet ?",
+        "output": "Il est normal d'avoir des doutes parce qu'il est impossible de prédire avec certitude les résultats d'un projet, malgré toutes les stratégies et actions mises en place."
+    },
+    {
+        "input": "Comment le doute peut-il affecter les actions dans un projet ?",
+        "output": "Le doute peut parfois paralyser les actions et empêcher la prise de décisions cruciales, ou pousser à vouloir tout contrôler seul."
+    },
+    {
+        "input": "Quel rôle joue la spiritualité dans l'entrepreneuriat ?",
+        "output": "La spiritualité joue un rôle central dans l'entrepreneuriat en préparant l'esprit à affronter les incertitudes et à surmonter les obstacles imprévus."
+    },
+    {
+        "input": "Que faut-il faire face aux éléments sur lesquels on n'a aucun contrôle ?",
+        "output": "Il faut identifier les éléments sur lesquels on n'a aucun contrôle et ne pas laisser ces incertitudes créer des doutes. Concentrez-vous sur ce que vous pouvez contrôler."
+    },
+    {
+        "input": "Pourquoi est-il essentiel de bien faire ce que vous pouvez contrôler ?",
+        "output": "Il est essentiel de bien faire ce que vous pouvez contrôler, car les erreurs sur ces aspects peuvent aggraver les doutes et paralyser l'avancement du projet."
+    },
+    {
+        "input": "Qu'est-ce que le benchmarking et pourquoi est-il important ?",
+        "output": "Le benchmarking consiste à analyser et à s'inspirer des réussites d'autres projets similaires pour améliorer vos propres pratiques et résultats."
+    },
+    {
+        "input": "Comment la communication peut-elle affecter la confiance des collaborateurs ?",
+        "output": "Une communication claire et confiante, qu'elle soit verbale, écrite ou non verbale, renforce la confiance des collaborateurs et aide à surmonter les objections."
+    },
+    {
+        "input": "Comment un leader doit-il gérer les objections des parties prenantes ?",
+        "output": "Un leader doit accepter les objections des parties prenantes, les discuter, les évaluer, et parfois leur donner la responsabilité de mettre en œuvre leurs suggestions."
+    },
+    {
+        "input": "Pourquoi le doute est-il un indicateur de progression dans un projet ?",
+        "output": "Le doute indique que vous êtes en train de sortir de votre zone de confort et que vous progressez vers des objectifs ambitieux."
+    },
+    {
+        "input": "Quel est l'impact du doute sur les décisions des porteurs de projet ?",
+        "output": "Le doute peut freiner les décisions des porteurs de projet et limiter leur capacité à avancer, surtout s'ils n'ont pas de réponses à toutes leurs questions."
+    },
+    {
+        "input": "Comment un porteur de projet peut-il inspirer confiance à son équipe malgré les incertitudes ?",
+        "output": "Un porteur de projet doit communiquer avec confiance, même en cas d'incertitude, pour inspirer confiance et motivation à son équipe."
+    },
+    {
+        "input": "Pourquoi est-il dangereux d'ignorer les objections des collaborateurs ?",
+        "output": "Ignorer les objections des collaborateurs peut les amener à se sentir exclus du projet, ce qui peut diminuer leur engagement et leur motivation à long terme."
+    },
+    {
+        "input": "Qu'est-ce qui peut provoquer des doutes chez les parties prenantes d'un projet ?",
+        "output": "Les parties prenantes peuvent douter si elles perçoivent de l'incertitude ou du manque de confiance dans la communication du porteur de projet."
+    },
+    {
+        "input": "Comment transformer les échecs en opportunités dans un projet ?",
+        "output": "Les échecs doivent être vus comme des opportunités d'apprentissage et d'amélioration, renforçant ainsi l'expérience collective de l'équipe."
+    },
+    {
+        "input": "Qu'est-ce qui caractérise un bon manager ou porteur de projet ?",
+        "output": "Un bon manager ou porteur de projet est capable de gérer les objections, de motiver son équipe, et de communiquer de manière à renforcer la confiance malgré les incertitudes."
+    },
+    {
+        "input": "Quelle est l'importance de la préparation mentale dans l'entrepreneuriat ?",
+        "output": "La préparation mentale est cruciale dans l'entrepreneuriat car elle aide à faire face aux incertitudes et à rester déterminé malgré les défis."
+    },
+    {
+        "input": "Comment un porteur de projet doit-il gérer ses propres doutes ?",
+        "output": "Un porteur de projet doit gérer ses doutes en privé et afficher de la détermination et de la confiance devant ses collaborateurs pour ne pas les inquiéter."
+    },
+    {
+        "input": "Comment un porteur de projet peut-il éviter que le doute ne paralyse son action ?",
+        "output": "Le porteur de projet doit accepter le doute comme un indicateur de progression et utiliser cette énergie pour poser des actions constructives."
+    },
+    {
+        "input": "Pourquoi est-il important de demander l'avis des collaborateurs même lorsqu'on connaît déjà la réponse ?",
+        "output": "Demander l'avis des collaborateurs, même si l'on connaît déjà la réponse, permet de flatter leur ego et de renforcer leur sentiment d'importance dans le projet."
+    },
+    {
+        "input": "Comment gérer les résistances des parties prenantes dans un projet ?",
+        "output": "Pour gérer les résistances, il faut accepter les objections, les discuter ouvertement, et éventuellement les impliquer dans la mise en œuvre de leurs suggestions."
+    },
+    {
+        "input": "Quelles sont les sources de doute courantes dans un projet ?",
+        "output": "Les sources de doute peuvent inclure l'incertitude économique, les imprévus externes, la performance du marché, et les comportements des partenaires."
+    },
+    {
+        "input": "Comment le doute peut-il affecter la décision de collaborer avec d'autres ?",
+        "output": "Le doute peut pousser à éviter la collaboration en préférant travailler seul, ce qui peut limiter l'ampleur et le potentiel de réussite du projet."
+    },
+    {
+        "input": "Quel est le rôle du mindset dans la gestion des doutes et des résistances ?",
+        "output": "Un mindset positif et déterminé est essentiel pour surmonter les doutes et les résistances, et pour continuer à avancer malgré les incertitudes."
+    },
+    {
+        "input": "Comment un porteur de projet peut-il réduire l'impact des facteurs externes qu'il ne contrôle pas ?",
+        "output": "Un porteur de projet doit se concentrer sur ce qu'il peut contrôler, tout en anticipant et en se préparant aux imprévus externes pour minimiser leur impact."
+    },
+    {
+        "input": "Pourquoi est-il important de bien recruter ses collaborateurs ?",
+        "output": "Bien recruter est essentiel car des collaborateurs compétents et alignés avec la vision du projet réduisent les incertitudes internes et renforcent la capacité à surmonter les défis."
+    },
+    {
+        "input": "Comment un porteur de projet doit-il aborder les imprévus dans un projet ?",
+        "output": "Un porteur de projet doit aborder les imprévus avec une attitude proactive, en ayant des plans de contingence et en restant flexible dans l'exécution du projet."
+    },
+    {
+        "input": "Qu'est-ce qui peut conduire un porteur de projet à douter de son propre projet ?",
+        "output": "Un porteur de projet peut douter en raison d'incertitudes économiques, de manque de soutien, ou de difficultés à anticiper les résultats du projet."
+    },
+    {
+        "input": "Comment une communication efficace peut-elle réduire les résistances des parties prenantes ?",
+        "output": "Une communication efficace clarifie les objectifs, les attentes, et les résultats attendus, ce qui réduit les malentendus et diminue les résistances des parties prenantes."
+    },
+    {
+        "input": "Quel est le rôle de la foi et de la conviction dans la réussite d'un projet ?",
+        "output": "La foi et la conviction sont des moteurs essentiels qui permettent de persévérer malgré les doutes et les défis, en maintenant la vision et l'engagement sur le long terme."
+    },
+    {
+        "input": "Comment un porteur de projet doit-il gérer ses émotions face aux doutes ?",
+        "output": "Il doit reconnaître ses émotions, les gérer en privé, et afficher une attitude positive et déterminée pour ne pas affecter négativement ses collaborateurs."
+    },
+    {
+        "input": "Pourquoi est-il dangereux de ne pas reconnaître les doutes chez les autres ?",
+        "output": "Ne pas reconnaître les doutes chez les autres peut les isoler, les démotiver, et réduire leur engagement dans le projet, ce qui peut mener à des résistances accrues."
+    },
+    {
+        "input": "Quels sont les trois éléments fondamentaux de la dimension spirituelle dans la gestion d'un projet selon le module 6 ?",
+        "output": "Les trois éléments fondamentaux de la dimension spirituelle dans la gestion d'un projet sont la confiance en soi, la résilience, et le sens profond que vous donnez à votre projet."
+    },
+    {
+        "input": "Comment créer un référentiel pour renforcer la confiance en soi dans un projet ?",
+        "output": "Pour renforcer la confiance en soi, il est conseillé de créer un référentiel propre à soi où l'on est le meilleur. Cela peut se faire en se positionnant dans un marché ou un domaine où l'on a un avantage unique."
+    },
+    {
+        "input": "Pourquoi est-il important de ne pas se comparer aux autres selon le module 6 ?",
+        "output": "Il est important de ne pas se comparer aux autres en utilisant des référentiels qui ne sont pas définis par soi-même, car cela peut nuire à la confiance en soi et entraîner une perception défavorable de ses propres capacités."
+    },
+    {
+        "input": "Comment le module 6 aborde-t-il la création de valeur ajoutée dans un projet ?",
+        "output": "Le module 6 suggère d'analyser ce que les autres ne font pas ou ont peur de faire, puis de se concentrer sur ces aspects pour créer une valeur ajoutée unique dans votre projet."
+    },
+    {
+        "input": "Quel est l'exemple donné dans le module 6 pour illustrer la création d'un référentiel unique ?",
+        "output": "L'exemple donné est celui d'une marque de chips qui se différencie par son emballage unique, créant ainsi un référentiel où elle est la seule et la meilleure."
+    },
+    {
+        "input": "Comment la résilience est-elle définie dans le module 6 ?",
+        "output": "La résilience est définie comme la capacité à supporter les coups et à continuer malgré les obstacles. Elle implique aussi de savoir riposter de manière stratégique et chirurgicale."
+    },
+    {
+        "input": "Pourquoi la résilience est-elle cruciale pour un porteur de projet ?",
+        "output": "La résilience est cruciale car tout projet pertinent perturbera des acteurs du marché, ce qui entraînera des attaques et des défis. Il est donc essentiel de pouvoir résister et continuer à avancer."
+    },
+    {
+        "input": "Quelle analogie le module 6 utilise-t-il pour expliquer la résilience ?",
+        "output": "Le module 6 utilise l'analogie de la boxe, où un boxeur doit apprendre à encaisser les coups tout en développant la capacité à riposter de manière efficace."
+    },
+    {
+        "input": "Comment un porteur de projet doit-il aborder les faiblesses et les forces selon le module 6 ?",
+        "output": "Un porteur de projet doit se concentrer sur l'identification et le renforcement de ses forces plutôt que sur la correction de ses faiblesses, car renforcer ses forces est plus bénéfique à long terme."
+    },
+    {
+        "input": "Quel est le lien entre l'identité et la résilience dans un projet ?",
+        "output": "L'identité joue un rôle clé dans la résilience car elle fournit un ancrage profond, basé sur la connaissance de ses racines, de sa culture, de ses forces, et de ses faiblesses, ce qui aide à surmonter les défis."
+    },
+    {
+        "input": "Comment un porteur de projet peut-il comprendre le sens profond de son projet ?",
+        "output": "Pour comprendre le sens profond de son projet, un porteur de projet doit connaître son identité, ses motivations, ses ambitions, et être capable de se projeter à long terme dans le développement de ce projet."
+    },
+    {
+        "input": "Quel est le danger de faire un projet uniquement pour l'argent selon le module 6 ?",
+        "output": "Faire un projet uniquement pour l'argent peut entraîner un manque de résilience à long terme, car une fois l'argent gagné, le porteur de projet pourrait manquer de motivation pour continuer face aux défis."
+    },
+    {
+        "input": "Quelles sont les questions clés à se poser pour évaluer la pertinence d'un projet à long terme ?",
+        "output": "Il est important de se demander si l'on peut développer ce projet pendant 20 ans, si l'on peut l'améliorer en continu, et si l'on peut conquérir des parts de marché de plus en plus grandes."
+    },
+    {
+        "input": "Comment un porteur de projet doit-il traiter les objections des collaborateurs selon le module 6 ?",
+        "output": "Un porteur de projet doit identifier les objections possibles des collaborateurs, préparer des réponses claires, et développer une écoute active pour mieux gérer ces objections."
+    },
+    {
+        "input": "Pourquoi l'écoute active est-elle essentielle pour un porteur de projet ?",
+        "output": "L'écoute active est essentielle car elle permet de comprendre pleinement les préoccupations des collaborateurs et de gérer efficacement les objections, renforçant ainsi la cohésion et l'efficacité du projet."
+    },
+    {
+        "input": "Quel exercice est recommandé pour développer l'écoute active dans le module 6 ?",
+        "output": "Le module 6 recommande d'offrir des conseils gratuits pendant une semaine sur une compétence spécifique pour développer l'écoute active et améliorer la gestion des interactions avec les parties prenantes."
+    },
+    {
+        "input": "Quel est l'objectif de l'exercice d'écoute active proposé dans le module 6 ?",
+        "output": "L'objectif est de développer l'écoute active en interagissant avec des personnes de manière gratuite, ce qui aide à mieux comprendre les besoins et les préoccupations des autres."
+    },
+    {
+        "input": "Comment un porteur de projet doit-il gérer ses doutes selon le module 6 ?",
+        "output": "Un porteur de projet doit identifier les questions qui lui causent des doutes, les séparer en celles qu'il peut contrôler et celles qu'il ne peut pas, et se concentrer sur les actions qu'il peut entreprendre."
+    },
+    {
+        "input": "Pourquoi est-il important de créer un référentiel unique dans son projet ?",
+        "output": "Créer un référentiel unique permet de se démarquer de la concurrence, de renforcer la confiance en soi et de positionner son projet comme leader dans ce domaine spécifique."
+    },
+    {
+        "input": "Comment un porteur de projet peut-il éviter que ses émotions ne l'empêchent d'avancer ?",
+        "output": "Il doit identifier les facteurs qui le poussent à s'énerver, travailler sur sa réaction à ces facteurs, et éviter de laisser les émotions négatives le paralyser ou nuire à son projet."
+    },
+    {
+        "input": "Pourquoi la compréhension de son identité est-elle cruciale pour la réussite d'un projet ?",
+        "output": "Comprendre son identité permet de définir un projet en adéquation avec ses valeurs, ses racines, et ses forces, ce qui est essentiel pour sa réussite à long terme."
+    },
+    {
+        "input": "Quels sont les exercices recommandés à la fin du module 6 ?",
+        "output": "Les exercices recommandés incluent l'identification des objections potentielles, le développement de l'écoute active en offrant des services gratuits, et la gestion des doutes en catégorisant les questions sans réponse."
+    },
+    {
+        "input": "Quelle est la clé pour transformer un projet en un véritable succès selon le module 6 ?",
+        "output": "La clé est de comprendre le sens profond du projet, d'être résilient, de créer un référentiel unique et de toujours chercher à améliorer et à développer le projet sur le long terme."
+    },
+    {
+        "input": "Quel est le thème principal du module 4 de la formation ?",
+        "output": "Le thème principal du module 4 est la narration persuasive."
+    },
+    {
+        "input": "Quels sont les objectifs du module 4 ?",
+        "output": "Les objectifs du module 4 sont de développer une histoire convaincante autour de votre projet et d'utiliser la narration pour inspirer et engager."
+    },
+    {
+        "input": "Quelle est l'importance de la narration persuasive dans un projet selon le module 4 ?",
+        "output": "La narration persuasive est cruciale pour créer une histoire qui inspire et engage, permettant de vendre plus efficacement le projet en captivant les parties prenantes."
+    },
+    {
+        "input": "Pourquoi le module 4 précise-t-il que nous ne sommes ni à l'église ni à la mosquée en parlant de narration ?",
+        "output": "Le module 4 précise cela pour souligner que dans le cadre d'un projet, il ne s'agit pas de vérité ou de mensonge, mais de stratégie, de storytelling et de persuasion pour atteindre ses objectifs."
+    },
+    {
+        "input": "Quel est le danger d'utiliser un discours de suppliant pour présenter un projet ?",
+        "output": "Utiliser un discours de suppliant peut amener les parties prenantes à vous percevoir comme un mendiant, ce qui dévalorise votre projet et leur engagement."
+    },
+    {
+        "input": "Comment les parties prenantes pourraient-elles réagir si vous présentez votre projet de manière suppliée ?",
+        "output": "Si vous présentez votre projet en suppliant, les parties prenantes pourraient considérer leur participation comme un acte de charité plutôt qu'une opportunité d'affaires, ce qui pourrait diminuer leur respect pour vous et leur engagement."
+    },
+    {
+        "input": "Pourquoi est-il important de présenter son projet comme une opportunité pour les parties prenantes ?",
+        "output": "Présenter son projet comme une opportunité permet de valoriser la participation des parties prenantes, en leur montrant que leur implication est bénéfique pour eux, ce qui les incite à s'engager plus sérieusement."
+    },
+    {
+        "input": "Comment la narration doit-elle être utilisée pour vendre un projet selon le module 4 ?",
+        "output": "La narration doit être utilisée pour créer une histoire crédible et captivante, qui résonne avec la vision des parties prenantes et les inspire à s'engager dans le projet."
+    },
+    {
+        "input": "Pourquoi une histoire de projet ne doit-elle pas donner l'impression que vous êtes en train de supplier ?",
+        "output": "Une histoire qui donne l'impression que vous suppliez peut affaiblir votre position et réduire l'engagement des parties prenantes, car elles vous verront comme un mendiant plutôt qu'un leader."
+    },
+    {
+        "input": "Quel est le rôle de la vision à long terme dans la narration persuasive selon le module 4 ?",
+        "output": "La vision à long terme donne un sens profond au projet, ce qui permet de maintenir la motivation et l'engagement sur une période prolongée, bien au-delà de la simple quête de profit."
+    },
+    {
+        "input": "Comment une histoire de projet doit-elle être créée selon le module 4 ?",
+        "output": "Une histoire de projet doit être soigneusement construite, en intégrant des éléments de votre parcours personnel ou de votre environnement, tout en restant vraisemblable et alignée avec la vision du projet."
+    },
+    {
+        "input": "Pourquoi est-il important que les parties prenantes s'identifient à l'histoire de votre projet ?",
+        "output": "Il est crucial que les parties prenantes s'identifient à l'histoire de votre projet pour qu'elles ressentent une connexion émotionnelle et voient leur propre vision reflétée, ce qui les incite à s'engager."
+    },
+    {
+        "input": "Quel exercice est recommandé dans le module 4 pour créer une histoire persuasive ?",
+        "output": "L'exercice recommandé est de rédiger l'histoire de votre projet par écrit, en définissant les émotions que vous souhaitez véhiculer et en intégrant des éléments de votre histoire personnelle ou de votre environnement."
+    },
+    {
+        "input": "Pourquoi est-il important de rédiger l'histoire de son projet par écrit ?",
+        "output": "Rédiger l'histoire par écrit permet de la structurer clairement, de la mémoriser, et de la présenter de manière fluide et convaincante lors de prises de parole en public ou en discussion avec des parties prenantes."
+    },
+    {
+        "input": "Comment pouvez-vous tester et améliorer l'histoire de votre projet selon le module 4 ?",
+        "output": "Vous pouvez tester et améliorer l'histoire en la publiant sur Internet, en recueillant des retours et des commentaires, et en effectuant des itérations pour la rendre plus convaincante."
+    },
+    {
+        "input": "Quel est le rôle de l'itération dans la création d'une histoire de projet efficace ?",
+        "output": "L'itération permet d'ajuster et de peaufiner l'histoire en fonction des retours, en ajoutant ou supprimant des éléments jusqu'à ce qu'elle devienne cohérente et engageante."
+    },
+    {
+        "input": "Quelle analogie est utilisée dans le module 4 pour montrer l'importance d'une histoire puissante ?",
+        "output": "Le module 4 utilise l'analogie de la religion, en montrant comment des histoires puissantes peuvent inspirer et motiver les gens pendant des millénaires, tout comme les récits religieux."
+    },
+    {
+        "input": "Comment une histoire puissante peut-elle influencer les parties prenantes d'un projet ?",
+        "output": "Une histoire puissante peut inciter les parties prenantes à devenir des contributeurs engagés, en leur offrant une vision et un objectif communs qui résonnent avec leurs propres valeurs."
+    },
+    {
+        "input": "Quel est le but ultime de la narration persuasive dans un projet ?",
+        "output": "Le but ultime est de convaincre les autres de rejoindre et de soutenir votre projet, en utilisant une histoire qui inspire et motive les parties prenantes à contribuer activement à son succès."
+    },
+    {
+        "input": "Quels exercices sont suggérés à la fin du module 4 ?",
+        "output": "Les exercices suggérés incluent la rédaction de l'histoire persuasive de votre projet, la publication de cette histoire pour obtenir des retours, et l'amélioration de l'histoire grâce à l'itération."
+    },
+    {
+        "input": "Quelle est l'importance de la pratique oratoire dans la narration persuasive ?",
+        "output": "La pratique oratoire est essentielle pour présenter l'histoire de manière convaincante, en mémorisant les points clés et en développant la fluidité et la confiance lors des présentations publiques."
+    },
+    {
+        "input": "Comment devez-vous structurer votre formation pour maximiser l'apprentissage selon le module 4 ?",
+        "output": "Il est conseillé de suivre les modules attentivement, de prendre des notes, de poser des questions en commentaire ou dans le groupe, et de consulter les documents PDF associés à la formation."
+    },
+    {
+        "input": "Quels modules de formation ont été couverts jusqu'au module 4 ?",
+        "output": "Les modules couverts sont : le module 1 sur l'introduction à la vente du projet, le module 2 sur la connaissance de son projet et de son identité, le module 3 sur l'analyse de l'audience et des parties prenantes, et le module 4 sur la narration persuasive."
+    },
+    {
+        "input": "Comment les modules précédents se connectent-ils au module 4 ?",
+        "output": "Les modules précédents ont posé les bases en couvrant l'introduction à la vente, la connaissance de l'identité du projet, et l'analyse des parties prenantes, préparant ainsi le terrain pour l'utilisation de la narration persuasive dans le module 4."
+    },
+    {
+        "input": "Comment l'histoire d'un projet peut-elle aider à filtrer les parties prenantes selon le module 4 ?",
+        "output": "Une histoire bien construite peut attirer les bonnes parties prenantes qui partagent la vision audacieuse du projet, tout en repoussant celles qui ne sont pas alignées avec cette ambition."
+    },
+    {
+        "input": "Pourquoi est-il important de définir les émotions que vous voulez susciter avec votre histoire ?",
+        "output": "Définir les émotions à susciter permet de créer une histoire plus ciblée et impactante, qui résonne profondément avec les parties prenantes et les incite à s'engager."
+    },
+    {
+        "input": "Quelle est la vision suggérée pour un projet qui se veut mondialement compétitif selon le module 4 ?",
+        "output": "La vision suggérée est de viser à devenir la meilleure marque du monde, pas seulement au niveau national ou régional, ce qui montre une ambition audacieuse et inspire les parties prenantes à rejoindre cette quête."
+    },
+    {
+        "input": "Pourquoi est-il essentiel de ne pas improviser l'histoire de son projet selon le module 4 ?",
+        "output": "Il est essentiel de ne pas improviser car une histoire bien rédigée et réfléchie permet une présentation plus convaincante et cohérente, facilitant ainsi l'adhésion des parties prenantes."
+    },
+    {
+        "input": "Comment une bonne histoire peut-elle améliorer la communication avec les parties prenantes ?",
+        "output": "Une bonne histoire améliore la communication en rendant le projet plus mémorable et en facilitant la compréhension et l'engagement des parties prenantes envers la vision du projet."
+    },
+    {
+        "input": "Quels sont les thèmes abordés dans la 2ème semaine de la formation ?",
+        "output": "Les thèmes abordés sont le module 3 (analyse de l'audience et des parties prenantes) et le module 4 (narration persuasive)."
+    },
+    {
+        "input": "Quels sont les objectifs du module 3 ?",
+        "output": "Les objectifs du module 3 incluent la compréhension des besoins et des attentes des parties prenantes, la création d'un profil d'audience pour vendre le projet, et la réalisation d'exercices pratiques."
+    },
+    {
+        "input": "Quels sont les objectifs du module 4 ?",
+        "output": "Les objectifs du module 4 sont de développer une histoire convaincante autour du projet et d'utiliser la narration pour inspirer et engager les parties prenantes."
+    },
+    {
+        "input": "Que contient le module 3 ?",
+        "output": "Le module 3 se concentre sur l'analyse de l'audience et des parties prenantes, la compréhension des besoins et attentes des parties prenantes, et la création d'un profil d'audience pour la vente du projet."
+    },
+    {
+        "input": "Que contient le module 4 ?",
+        "output": "Le module 4 aborde la narration persuasive, notamment comment développer une histoire convaincante autour du projet et utiliser la narration pour inspirer et engager."
+    },
+    {
+        "input": "Que recommande l'instructeur pour ceux qui rejoignent la formation tardivement ?",
+        "output": "L'instructeur recommande de commencer par le module 1 (introduction) et le module 2 (identité), disponibles en ligne."
+    },
+    {
+        "input": "Quels sont les types de parties prenantes dans un projet ?",
+        "output": "Il existe deux types de parties prenantes dans un projet : les parties prenantes intrinsèques (internes) et les parties prenantes extrinsèques (externes)."
+    },
+    {
+        "input": "Quels exemples sont donnés pour les parties prenantes intrinsèques ?",
+        "output": "Les parties prenantes intrinsèques incluent le porteur de projet, les collaborateurs, les associés, les salariés, les cofondateurs, les investisseurs, et les employés de l'entreprise."
+    },
+    {
+        "input": "Quels exemples sont donnés pour les parties prenantes extrinsèques ?",
+        "output": "Les parties prenantes extrinsèques incluent l'État, les fournisseurs, les clients, les prospects, et tous les acteurs externes ayant une influence sur le projet."
+    },
+    {
+        "input": "Pourquoi est-il important d'identifier toutes les parties prenantes d'un projet ?",
+        "output": "Il est important d'identifier toutes les parties prenantes pour éviter que des parties prenantes négligées ne deviennent une source de défaillance pour le projet."
+    },
+    {
+        "input": "Quels aspects doivent être définis pour chaque partie prenante ?",
+        "output": "Pour chaque partie prenante, il est nécessaire de définir leurs attentes, leurs droits et devoirs, ainsi que les objectifs à atteindre."
+    },
+    {
+        "input": "Quelles sont les conséquences de négliger les attentes d'une partie prenante ?",
+        "output": "Négliger les attentes d'une partie prenante peut mener à des conflits, à une charge de travail accrue, à du stress, à un découragement et potentiellement à l'abandon du projet."
+    },
+    {
+        "input": "Comment définir les attentes des parties prenantes ?",
+        "output": "Les attentes des parties prenantes peuvent être définies par des discussions directes avec elles, ou par le benchmarking des attentes habituelles dans des projets similaires."
+    },
+    {
+        "input": "Quels exercices sont proposés dans le module 3 ?",
+        "output": "Les exercices proposés incluent l'identification des parties prenantes du projet, la définition de leurs attentes, et la définition des actions à mener pour satisfaire ces attentes."
+    },
+    {
+        "input": "Pourquoi est-il important d'avoir un profil d'audience pour un projet ?",
+        "output": "Un profil d'audience permet de cibler efficacement les personnes idéales pour rejoindre le projet et de s'assurer que les actions menées convergent vers un objectif commun."
+    },
+    {
+        "input": "Qu'est-ce que le benchmarking selon le module 3 ?",
+        "output": "Le benchmarking consiste à analyser les attentes des parties prenantes dans des entreprises similaires pour en tirer des bonnes pratiques à appliquer dans son propre projet."
+    },
+    {
+        "input": "Qu'est-ce qu'un travailleur de l'ombre dans le contexte des parties prenantes ?",
+        "output": "Un travailleur de l'ombre est une partie prenante qui effectue du lobbying, surveille l'environnement et anticipe les menaces pour protéger l'entreprise."
+    },
+    {
+        "input": "Quels rôles jouent les parties prenantes dans un projet ?",
+        "output": "Les parties prenantes jouent des rôles cruciaux en apportant leur expertise, leur travail, et leurs ressources pour atteindre les objectifs du projet. Elles ont des droits et des devoirs spécifiques."
+    },
+    {
+        "input": "Quelles sont les actions à mener pour satisfaire les attentes des parties prenantes ?",
+        "output": "Les actions incluent l'identification des attentes, la définition des objectifs, la mise en place des actions nécessaires pour satisfaire ces attentes, et l'évaluation régulière de ces actions."
+    },
+    {
+        "input": "Comment les parties prenantes intrinsèques et extrinsèques influencent-elles le projet ?",
+        "output": "Les parties prenantes intrinsèques influencent directement la gestion et l'exécution du projet, tandis que les parties prenantes extrinsèques impactent le projet par leurs interactions externes, comme les lois, les réglementations, et les conditions du marché."
+    }
+]
